@@ -1,0 +1,12 @@
+{
+  "Search": [
+    {
+      "Title": "The Shawshank Redemption",
+      "Year": "1994",
+      "imdbID": "tt0111161",
+      "Type": "movie",
+      "Poster": "https://example.com/poster.jpg"
+    }
+  ],
+  "Response": "True"
+}
